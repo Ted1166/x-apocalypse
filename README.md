@@ -1,3 +1,6 @@
+
+![Screenshot 2024-11-28 215443](https://github.com/user-attachments/assets/5734db13-7262-4f84-b32f-9904e6dd534e)
+
 # XAPOCALYSE
 Survive, Build, Thrive in a Decentralized World
 

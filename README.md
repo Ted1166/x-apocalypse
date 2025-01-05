@@ -1,3 +1,5 @@
+![alt text](<Screenshot 2024-11-28 215443.png>)
+
 # XAPOCALYSE
 Survive, Build, Thrive in a Decentralized World
 
